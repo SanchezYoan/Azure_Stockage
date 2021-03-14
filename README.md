@@ -6,7 +6,7 @@ Le script main.py permet de:
 -envoyer un fichier dans un container Azure Blob Storage
 -télécharger un fichier contenu dans un container Azure Blob Storage
 
-Pour utiliser ce programme, vous devez avoir créé un compte Azure, et devez remplir un fichier config.ini contenant:
+Pour utiliser ce programme, vous devez avoir créé un compte Azure, et remplir un fichier config.ini contenant:
 
 -Le chemin fichier pour telecharger l'objet blob (restoredir)
 -le nom de votre compte Azure (account)
